@@ -1,5 +1,7 @@
 ## Hi there 👋
+## Connect With Me
 
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/be_cpyadav/)
 <!--
 **chandraprakash6719/chandraprakash6719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
